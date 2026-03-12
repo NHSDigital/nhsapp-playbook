@@ -122,10 +122,6 @@ The ideas here began with a review of the NHS service standard and NHS design pr
 - Susan Weinschenk and Dean Barker
 - Dan Brown
 
-#### Footnotes:
-
-[^1]: The real quote is "We are as gods and might as well get good at it", which comes from the Whole Earth Catalogue.
-
 #### Reference
 
 - The definition of user experience (Nielsen/Norman)
@@ -137,3 +133,5 @@ The ideas here began with a review of the NHS service standard and NHS design pr
 - Usability metrics (Lysanna)
 - Designing good government services: an introduction (GDS)
 - The Web Credibility Project
+
+[^1]: The real quote is "We are as gods and might as well get good at it", which comes from the Whole Earth Catalogue.
