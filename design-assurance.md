@@ -7,6 +7,7 @@
 #### What is a design assurance review?
  
 Design assurance reviews are a mandatory element of the NHS App's governance process meant to help the team produce great work by providing a structured approach to both feedback and quality assurance. 
+
 The format is modelled on the [GDS service assessment](https://www.gov.uk/service-manual/service-assessments) process, but it has been paired down and simplified to fit our context. While service assessments are focussed on whether a service meets the [NHS service standard](https://service-manual.nhs.uk/standards-and-technology/service-standard), design assurance reviews also cover how a specific piece of work fits into the context of the NHS App (which is to say that it is entirely possible for a project to meet all of the criteria outlined in the service standard but still require changes because the way it has been designed conflicts with how other parts of the NHS App work). Design assurance reviews also should not be as gruelling as a normal service assessment – if they are scary, we're doing it wrong! 
 
 To quote the guidance for GDS service assessments, "\[...\] The panel is not there to catch you out. They offer a peer review of the work you’ve done and help you understand anything you’ll need to change or improve." Implied in that statement is that the panel will have advice, recommendations about how to improve the work, and potentially change requests that are mandatory. 
@@ -19,6 +20,7 @@ The primary difference between peer review sessions and design assurance reviews
 
 - Peer review sessions typically focus on a specific question that a designer wants feedback about and are initiated by the designer who is seeking feedback
 - Design assurance reviews are focussed on providing holistic feedback that considers all aspects of the service design in the context of the NHS service standard and are mandatory at a specific point of the project lifecycle 
+
 The goal is to provide a supportive environment, ensure we apply the NHS service standard consistently, and review work in the proper context. 
 
 
