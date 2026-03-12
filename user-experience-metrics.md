@@ -1,9 +1,5 @@
 # How we measure user experience for the NHS App
 
-## Purpose:
-
-To describe how we measure user experience in the context of the NHS App.
-
 Measuring the user experience and usability of the NHS App can be tricky because of how connected it is to a wider set of experiences that extend beyond the app itself. The end of a transaction in the app is not usually the end of a user’s experience with the service, or the point at which their user need is met.
 
 It is important for us to measure how effective the app elements of the service are, and also try to measure how effective the app is in delivering the wider service outcome.
