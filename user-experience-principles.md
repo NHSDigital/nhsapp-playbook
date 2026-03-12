@@ -11,7 +11,7 @@ The International organisation for standardisation (ISO) defines user experience
 > “A person's perceptions and responses that result from the use or anticipated use of a product, system or service.”  
 — ISO 9241-210, part 210: Human-centered design for interactive systems
 
-This is saying that a "user experience" is not the interface we design, the content we create, or the service we orchestrate. It is quite literally the sum total of what the user experiences. How does it make them feel? What does it cause them to do or think? This is kind of heady stuff, and part of why Tero Väänänen prefers we don't use the term "UX designer", because "you can't actually design someone's experience; you can design an interaction or service, but the experience happens inside them". And yet, shaping the experience users have with the products and services we deliver is a thing we can not not do. To paraphrase Stewart Brand, "We [deliver user experiences] and we might as well get good at it".*
+This is saying that a "user experience" is not the interface we design, the content we create, or the service we orchestrate. It is quite literally the sum total of what the user experiences. How does it make them feel? What does it cause them to do or think? This is kind of heady stuff, and part of why Tero Väänänen prefers we don't use the term "UX designer", because "you can't actually design someone's experience; you can design an interaction or service, but the experience happens inside them". And yet, shaping the experience users have with the products and services we deliver is a thing we can not not do. To paraphrase Stewart Brand, "We [deliver user experiences] and we might as well get good at it".[^1]
 
 ## What is a good user experience?
 
@@ -121,9 +121,10 @@ The ideas here began with a review of the NHS service standard and NHS design pr
 - Peter Morville
 - Susan Weinschenk and Dean Barker
 - Dan Brown
-- Footnotes
 
-*The real quote is "We are as gods and might as well get good at it", which comes from the Whole Earth Catalogue.
+#### Footnotes:
+
+[^1]: The real quote is "We are as gods and might as well get good at it", which comes from the Whole Earth Catalogue.
 
 #### Reference
 
