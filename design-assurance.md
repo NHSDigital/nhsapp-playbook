@@ -35,11 +35,14 @@ Things that require a design assurance review:
 - A new feature that has never existed in the App before, such as filtering tools for the message inbox
 - A new design pattern that has never existed in the App before, such as a confirmation page pattern
 - A revision to an existing feature that is significant enough to change how the functionality works, such as redesigning the GP appointment booking flow 
+
 Things that do not require a design assurance review:
+
 - New instances of a previously reviewed and approved design pattern, such as how online consultations are integrated
 - New styles or components being considered for incorporation into the design system (there is a separate process for this)
 - Revisions based on an accessibility audit
 - Changes to support an urgent fix to the live system 
+
 If you aren't sure whether the work you're doing needs a design assurance review, just ask [Michael Gallagher](/display/~michael.gallagher10@nhs.net), [Simon Davis](/display/~simon.davis@nhs.net), or [Auriol Palladino](/display/~auriol.palladino1@nhs.net).
 
 #### When do reviews happen?
