@@ -10,7 +10,7 @@ Design assurance reviews are a mandatory element of the NHS App's governance pro
 
 The format is modelled on the [GDS service assessment](https://www.gov.uk/service-manual/service-assessments) process, but it has been paired down and simplified to fit our context. While service assessments are focussed on whether a service meets the [NHS service standard](https://service-manual.nhs.uk/standards-and-technology/service-standard), design assurance reviews also cover how a specific piece of work fits into the context of the NHS App (which is to say that it is entirely possible for a project to meet all of the criteria outlined in the service standard but still require changes because the way it has been designed conflicts with how other parts of the NHS App work). Design assurance reviews also should not be as gruelling as a normal service assessment – if they are scary, we're doing it wrong! 
 
-To quote the guidance for GDS service assessments, "\[...\] The panel is not there to catch you out. They offer a peer review of the work you’ve done and help you understand anything you’ll need to change or improve." Implied in that statement is that the panel will have advice, recommendations about how to improve the work, and potentially change requests that are mandatory. 
+To quote the guidance for GDS service assessments, "...The panel is not there to catch you out. They offer a peer review of the work you’ve done and help you understand anything you’ll need to change or improve." Implied in that statement is that the panel will have advice, recommendations about how to improve the work, and potentially change requests that are mandatory. 
 
 #### Why are reviews important?
  
@@ -93,7 +93,7 @@ The design assurance review is not meant to replace normal feedback and peer rev
 Assurance reviews have a simple format:
 
 - Give an overview of the thing you’re designing, making sure to answer the following questions: 
-  - What is the problem you are working on and why are you trying to solve it?1
+  - What is the problem you are working on and why are you trying to solve it?[^1]
   - Who are your users and what are their needs?
   - What is the whole journey and how did you decide on the scope?
   - What are your riskiest assumptions and how have you tested them?
@@ -159,4 +159,4 @@ The feedback form has an area for logging the actions you have taken against the
  
  #### Footnotes:
  
- 1. Sometimes the answer to why you are working on the problem is because a senior stakeholder said so – that's fine, you should tell the panel that.
+ [^1]: Sometimes the answer to why you are working on the problem is because a senior stakeholder said so – that's fine, you should tell the panel that.
