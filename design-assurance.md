@@ -4,14 +4,14 @@
 
 ## Introduction
 
-### What is a design assurance review?
+#### What is a design assurance review?
  
 Design assurance reviews are a mandatory element of the NHS App's governance process meant to help the team produce great work by providing a structured approach to both feedback and quality assurance. 
 The format is modelled on the [GDS service assessment](https://www.gov.uk/service-manual/service-assessments) process, but it has been paired down and simplified to fit our context. While service assessments are focussed on whether a service meets the [NHS service standard](https://service-manual.nhs.uk/standards-and-technology/service-standard), design assurance reviews also cover how a specific piece of work fits into the context of the NHS App (which is to say that it is entirely possible for a project to meet all of the criteria outlined in the service standard but still require changes because the way it has been designed conflicts with how other parts of the NHS App work). Design assurance reviews also should not be as gruelling as a normal service assessment – if they are scary, we're doing it wrong! 
 
 To quote the guidance for GDS service assessments, "\[...\] The panel is not there to catch you out. They offer a peer review of the work you’ve done and help you understand anything you’ll need to change or improve." Implied in that statement is that the panel will have advice, recommendations about how to improve the work, and potentially change requests that are mandatory. 
 
-### Why are reviews important?
+#### Why are reviews important?
  
 In the NHS App programme, it is expected that all UCD people will be getting feedback about their work on a regular basis. Most feedback can be handled in peer review sessions that take place in regular huddles or as one-off events, however given the scale and complexity of the work we do, there is a need to also review work in a more holistic, structured manner. 
 
@@ -26,7 +26,7 @@ The goal is to provide a supportive environment, ensure we apply the NHS service
 
 ## Setup
 
-### What work needs to be reviewed?
+#### What work needs to be reviewed?
  
 Design assurance reviews are required for all new functionality and design patterns. 
 
@@ -42,7 +42,7 @@ Things that do not require a design assurance review:
 - Changes to support an urgent fix to the live system 
 If you aren't sure whether the work you're doing needs a design assurance review, just ask [Michael Gallagher](/display/~michael.gallagher10@nhs.net), [Simon Davis](/display/~simon.davis@nhs.net), or [Auriol Palladino](/display/~auriol.palladino1@nhs.net).
 
-### When do reviews happen?
+#### When do reviews happen?
  
 Design assurance reviews happen when the team have completed at least one round of prototype explorations and have settled on a chosen design solution. The team should have been through at least one content and interaction design crit. The sweet spot for a design assurance review is about 70–75% of the way through the phase of work. At that point the work will be mature enough for the panel to provide considered feedback but not so far along that there won't be any time (or appetite) for changes. It can be a little earlier or later in the process, but try to avoid letting it go beyond ≈85% complete. 
 
@@ -54,7 +54,7 @@ You should discuss whether your current work needs a review with the app's lead 
 
 Preparation for the review shouldn't be onerous. Expect to set aside a day or two for the prep work. 
 
-### Who participates in a review?
+#### Who participates in a review?
  
 Due to their holistic nature, design assurance reviews necessarily involve a multi-disciplinary panel. With three exceptions, the panel members for a design assurance review are not a fixed group or the same for every single review. 
 The panel must include the NHS App's lead designer, lead user researcher, lead content designer, a product lead, a tech lead, and a clinician. 
@@ -76,11 +76,11 @@ Additionally, we do not expect senior stakeholders from outside of the team to p
 
 ## The review
 
-### What happens before a review?
+#### What happens before a review?
  
 At least two days ahead of the review, the team should send the panel a link to their most current prototype along with whatever materials they plan on presenting (e.g. a Mural board) so that the panel have time to get familiar with the subject matter. 
 
-### What happens during a review?
+#### What happens during a review?
  
 Plan for the meeting to take about about two hours. If it takes longer, this is a sign that you haven't done enough to keep UCD and product leads informed as you were doing the work. 
 
@@ -111,8 +111,6 @@ The main focus of the design assurance review is to evaluate the work against th
 - [10. Define what success looks like and be open about how your service is performing](https://service-manual.nhs.uk/standards-and-technology/service-standard-points/10-define-what-success-looks-like-and-be-open-about-how-your-service-is-performing)
 - [13. Use and contribute to open standards, common components and patterns](https://service-manual.nhs.uk/standards-and-technology/service-standard-points/13-use-and-contribute-to-open-standards-common-components-and-pattern)
 - [16. Make your service clinically safe](https://service-manual.nhs.uk/standards-and-technology/service-standard-points/16-make-your-service-clinically-safe)
-
-(For more information about each point of the service standard and how to make use of them, see "Understanding the NHS service standard")
 
 In short, the panel will want to understand what you've done, why you've done it, and how that aligns with the service standard. 
 
