@@ -2,7 +2,7 @@
 
 This document describes how to do work with and for the NHS App, regardless of whether you are part of the official NHS App programme. 
 
-These guides are a living thing. If you think you can improve them, please give open an issue or give it go yourself and open a PR! 
+These guides are a living thing. If you think you can improve them, please open an issue or give it go yourself and open a PR! (Or message us on Slack.)
 
 The playbook has the following parts:
 
