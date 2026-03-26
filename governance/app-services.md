@@ -5,7 +5,7 @@ A list of things in the NHS App:
 - NHS login
 - Onboarding flow
 - GP appointment booking
-- Online consulations
+- Online consultations
   - Triage
   - Administration
 - NHS 111 online
