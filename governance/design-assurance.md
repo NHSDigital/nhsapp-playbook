@@ -8,13 +8,13 @@
  
 Design assurance reviews are a mandatory element of the NHS App's governance process meant to help the team produce great work by providing a structured approach to both feedback and quality assurance. 
 
-The format is modelled on the [GDS service assessment](https://www.gov.uk/service-manual/service-assessments) process, but it has been paired down and simplified to fit our context. While service assessments are focussed on whether a service meets the [NHS service standard](https://service-manual.nhs.uk/standards-and-technology/service-standard), design assurance reviews also cover how a specific piece of work fits into the context of the NHS App (which is to say that it is entirely possible for a project to meet all of the criteria outlined in the service standard but still require changes because the way it has been designed conflicts with how other parts of the NHS App work). Design assurance reviews also should not be as gruelling as a normal service assessment – if they are scary, we're doing it wrong! 
+The format is modelled on the [GDS service assessment](https://www.gov.uk/service-manual/service-assessments) process, but it has been pared down and simplified to fit our context. While service assessments are focussed on whether a service meets the [NHS service standard](https://service-manual.nhs.uk/standards-and-technology/service-standard), design assurance reviews also cover how a specific piece of work fits into the context of the NHS App (which is to say that it is entirely possible for a project to meet all of the criteria outlined in the service standard but still require changes because the way it has been designed conflicts with how other parts of the NHS App work). Design assurance reviews also should not be as gruelling as a normal service assessment – if they are scary, we're doing it wrong! 
 
 To quote the guidance for GDS service assessments, "...The panel is not there to catch you out. They offer a peer review of the work you’ve done and help you understand anything you’ll need to change or improve." Implied in that statement is that the panel will have advice, recommendations about how to improve the work, and potentially change requests that are mandatory. 
 
 #### Why are reviews important?
  
-In the NHS App programme, it is expected that all UCD people will be getting feedback about their work on a regular basis. Most feedback can be handled in peer review sessions that take place in regular huddles or as one-off events, however given the scale and complexity of the work we do, there is a need to also review work in a more holistic, structured manner. 
+In the NHS App programme, it is expected that all UCD people will be getting feedback about their work on a regular basis. Most feedback can be handled in peer review sessions that take place in regular huddles or as one-off events. However, given the scale and complexity of the work we do, there is also a need to review work in a more holistic, structured manner. 
 
 The primary difference between peer review sessions and design assurance reviews is:
 
@@ -87,7 +87,7 @@ At least two days ahead of the review, the team should send the panel a link to 
 
 #### What happens during a review?
  
-Plan for the meeting to take about about two hours. If it takes longer, this is a sign that you haven't done enough to keep UCD and product leads informed as you were doing the work. 
+Plan for the meeting to take about two hours. If it takes longer, this is a sign that you haven't done enough to keep UCD and product leads informed as you were doing the work. 
 
 The design assurance review is not meant to replace normal feedback and peer review processes. You should continue asking for and receiving feedback during team sessions and profession huddles. Those processes should involve UCD leads when possible, which will in turn make the design assurance review easier. 
 Assurance reviews have a simple format:
