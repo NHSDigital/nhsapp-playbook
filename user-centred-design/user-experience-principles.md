@@ -1,5 +1,11 @@
 # User experience principles
 
+| Status | Last reviewed |
+| ------ | ------------- |
+| Live   | 2026-03-24    |
+
+
+
 Describing or defining what "good" means when it comes to user experience design is difficult. All of our work is measured against the NHS service standard, and you should use the NHS design principles to help you make decisions about how to do things in a way that is aligned to our values. They are both useful and important, however we've observed that teams need a more detailed set of guidelines to help them understand what good looks like and make decisions when faced with trade-offs. This page is an attempt to define a benchmark. 
 
 Just so we're absolutely clear: the principles described below do NOT replace the NHS design principles! They extend them so that teams have a more detailed set of tools for evaluating their work. 
@@ -23,7 +29,7 @@ These principles have been written so that you can use them when making decision
 
 ## Principles
 
-Use these principles to guide your work and decision-making. The the bold headings are general categories; they represent our values. The sub-points are things you can measure for; they cover the detailed criteria you should be aiming to satisfy.   
+Use these principles to guide your work and decision-making. The bold headings are general categories; they represent our values. The sub-points are things you can measure for; they cover the detailed criteria you should be aiming to satisfy.   
 
 A good user experience is:
 
@@ -100,7 +106,7 @@ We have a three-point scale for each metric:
 - Partially met
 - Unmet
 
-Tracking how the thing you are working on is doing against the each metric on the three-point scale will help you see where you need to improve.
+Tracking how the thing you are working on is doing against each metric on the three-point scale will help you see where you need to improve.
 
 Use this spreadsheet to keep track of how your product or service is doing on these principles. It contains hints about each principle too.
 
