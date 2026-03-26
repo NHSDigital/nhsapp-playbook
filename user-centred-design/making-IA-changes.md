@@ -11,7 +11,7 @@ This section explains how teams should work with the Navigation and Onboarding t
 
 While the structure of the NHS App can evolve, it is a complex and carefully balanced organisation of health information. Many of the journeys within the NHS App are interlinked. Changes to the structure, even if they seem small, can have a significant impact on other parts of the app.
 
-Research shows that users view and experience the NHS App as a singular thing, when in fact it is a combination of many different services and data. It is essential for NHS App teams to ensure consistency in the experience, from the overall structure down to labels and data read outs to meet user's mental models.
+Research shows that users view and experience the NHS App as a singular thing, when in fact it is a combination of many different services and data. It is essential for NHS App teams to ensure consistency in the experience, from the overall structure down to labels and data readouts to meet users' mental models.
 
 To get started, you can view the sitemap to see the current structure of the NHS App. For more context, see the page on the structure of the NHS App.
 
@@ -56,7 +56,7 @@ When researching changes to the app's structure, teams should consider using bot
 - **Quantitative research** can help measure whether people are able to find and access services at scale, and whether a change improves or degrades navigation across the app. Examples include tree testing, card sorting, unmoderated usability testing, analytics and feedback gathered through surveys or reviews
 - **Qualitative research** can help explore how people interpret labels, categories and navigation options, and where confusion or uncertainty occurs. Examples include moderated usability testing and 'pop-up', in-person or community research.
 
-To avoid duplication of research efforts, its best practice to review any existing research relevant to the part of the app where you are proposing a change. Your research objectives and hypotheses should be clear and logical to ensure your research efforts are valid.
+To avoid duplication of research efforts, it's best practice to review any existing research relevant to the part of the app where you are proposing a change. Your research objectives and hypotheses should be clear and logical to ensure your research efforts are valid.
 
 NHS App Lead User Researchers and the Navigation and Onboarding team can help direct you to existing relevant research, and help you to choose and plan appropriate primary user research.
 
@@ -101,7 +101,7 @@ People use their NHS login account to access the NHS App. There are different id
 
 ### Proxy access
 
-If granted, proxy access allows users to switch profiles to manage health services for others in the NHS App. If proxy access has been granted users can switch profiles in the NHS App to help another person manage their health. This may be a child, relative or partner.
+If granted, proxy access allows users to switch profiles to manage health services for others in the NHS App. If proxy access has been granted, users can switch profiles in the NHS App to help another person manage their health. This may be a child, relative or partner.
 
 <img src="/assets/images/making-changes-image2.png" alt="Proxy access in the NHS App" style="border: none; background-color: transparent;">
 

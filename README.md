@@ -7,20 +7,20 @@ This document describes how to do work with and for the NHS App, regardless of w
 - Tools for doing your work
 - Description of how the app functions and gets maintained
 
-The primary goal of this material is to make it easy for teams to know how to research, design, and build products and services that will be part of the NHS App. If you can't figure out how to do the thing you need to do or if you have ideas about how to make this playbook better, please open an issue or give it go yourself and open a PR! (Or message us on Slack.)
+The primary goal of this material is to make it easy for teams to know how to research, design, and build products and services that will be part of the NHS App. If you can't figure out how to do the thing you need to do or if you have ideas about how to make this playbook better, please open an issue or give it a go yourself and open a PR! (Or message us on Slack.)
 
 
 
 ## The basics
 
-There basic kit of parts that we all work with includes:
+The basic kit of parts that we all work with includes:
 
 - **The NHS service standard.** This is where everything starts. Everyone must adhere to it. 
 - **Communities of practice.** The NHS has many of them. There are groups specifically focussed on App things, and you can join them. 
 - **IA concept and governance.** The core app team owns it. This will probably be the most challenging aspect of working on the App. 
-- **Evidence base and design documentation.** Includes the user needs repo, design histories, and Github issues. All teams need to contribute and maintain this.
+- **Evidence base and design documentation.** Includes the user needs repo, design histories, and GitHub issues. All teams need to contribute and maintain this.
 - **Service patterns and design system.** The core app team will provide them, but everyone can contribute.
-- **App user experience principles.** Everyone should have the same target for what a good experience consists of. These extend the NHS Design Principles and make them more tangible while also incoporating ideas from clinical safety. 
+- **App user experience principles.** Everyone should have the same target for what a good experience consists of. These extend the NHS Design Principles and make them more tangible while also incorporating ideas from clinical safety. 
 - **App user experience metrics.** (Same as above.)
 - **Content governance processes.** For content published in and about the App.
 - **A prioritised list of app services based on user needs.** This provides focus so we can account for limited resources.
