@@ -1,0 +1,14 @@
+# Default owners for everything in the repo - unless a later match takes precedence
+* @NHSDigital/nhs-app-code-owners
+
+# All IaaC or DevOps code should be reviewed by a member of the Ops team
+*.tf @NHSDigital/nhs-app-ops-owners
+*.yaml @NHSDigital/nhs-app-ops-owners
+*.yml @NHSDigital/nhs-app-ops-owners
+DOCKERFILE @NHSDigital/nhs-app-ops-owners
+Dockerfile @NHSDigital/nhs-app-ops-owners
+dockerfile @NHSDigital/nhs-app-ops-owners
+
+# All changes to the CODEOWNERS file should be reviewed by admins
+CODEOWNERS @NHSDigital/nhs-app-admins
+/.github/ @NHSDigital/nhs-app-admins

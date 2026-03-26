@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+echo "Running commit message check..."
+
+GREEN="\033[0;32m"
+RED="\033[0;31m"
+RESET="\033[0m"
+
+commit_message="$1"
+
+# check git commit message start with "NHSO-00000:"
+if ! grep -Eq '^(NHSO|OPS)-[0-9]{1,6}: .+$' "$commit_message"; then
+    echo -e "${RED}##### YOUR COMMIT MESSAGE NEEDS TO FOLLOW THE STANDARD FORMATS:  #####"
+    echo -e "##### \"NHSO-<ticket-number>: Description of what's in the commit\" or  #####"
+    echo -e "##### \"OPS-<ticket-number>: Description of what's in the commit\"  #####"
+    echo -e "##### e.g \"NHSO-9999: Updating unit tests for new feature\"  #####"
+    echo -e "##### e.g \"OPS-9999: Quick fixes to pipelines\"  #####${RESET}"
+    exit 1
+else
+    echo -e "${GREEN}Successfully passed commit message check\n${RESET}"
+fi

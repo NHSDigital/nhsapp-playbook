@@ -1,0 +1,15 @@
+#!/bin/bash -e
+
+# Pre-commit git hook runner
+
+# ==============================================================================
+
+GREEN="\033[0;32m"
+RESET="\033[0m"
+
+pre_commit_scripts=$(ls -1 .githooks/pre-commit-scripts/*.sh 2> /dev/null)
+for script in $pre_commit_scripts; do
+  printf "Running githook: %s\n" "$script"
+  $script "$@"
+done
+echo -e "${GREEN}Successfully run all pre-commit hooks\n${RESET}"
