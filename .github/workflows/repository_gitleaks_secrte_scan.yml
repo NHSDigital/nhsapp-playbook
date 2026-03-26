@@ -7,6 +7,8 @@ permissions:
   pull-requests: read
 
 on:
+  pull_request:
+  workflow_dispatch:
   workflow_call:
     secrets:
       NHSAPP_GITLEAKS_LICENSE:
