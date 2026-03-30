@@ -10,9 +10,11 @@ Beyond that, there are a number of ways of working and tools that we use to make
 - [Design assurance reviews](../governance/design-assurance.md)
 - [Information architecture](information-architecture.md) ([and making changes to it](making-IA-changes.md))
 - [Design system](design-system.md)
+- [Prototyping tools and resources](prototyping-tools.md)
 - [User experience principles](user-experience-principles.md)
 - [User experience metrics](user-experience-metrics.md)
 - [User needs](user-needs.md)
+- [Accessibility audits](accessibility-audits.md)
 - [Content governance](content-governance.md)
 - [UCD ops](ucd-ops.md)
 
