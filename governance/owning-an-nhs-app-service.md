@@ -12,6 +12,8 @@ If you are going to build a new service for the NHS App, you should also be prep
 
 The core NHS App team can provide support and guidance on how to do all of these things, but ultimately it is up to the team that builds the service to own it. If you build something, you need to make sure you have plans for how to maintain it and improve it over time (including securing funding). This is a crucial part of building for the NHS App and is essential for ensuring that the App continues to meet user needs and provides a good experience for users.
 
+---
+
 | Status | Last reviewed |
 | ------ | ------------- |
 | Draft  | 2026-03-25    |

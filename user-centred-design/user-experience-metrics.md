@@ -1,11 +1,5 @@
 # How we measure user experience for the NHS App
 
-| Status | Last reviewed |
-| ------ | ------------- |
-| Live   | 2026-03-24    |
-
-
-
 Measuring the user experience and usability of the NHS App can be tricky because of how connected it is to a wider set of experiences that extend beyond the app itself. The end of a transaction in the app is not usually the end of a user’s experience with the service, or the point at which their user need is met.
 
 It is important for us to measure how effective the app elements of the service are, and also try to measure how effective the app is in delivering the wider service outcome.
@@ -160,3 +154,9 @@ Many metrics used within industry are not applicable to the NHS App and our cont
 - **metrics tied to revenue** – the app has no paid elements  
 
 We lean toward metrics measurable through user research and analytics.
+
+---
+
+| Status | Last reviewed |
+| ------ | ------------- |
+| Live   | 2026-03-24    |

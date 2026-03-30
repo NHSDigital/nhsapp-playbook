@@ -8,6 +8,8 @@ The NHS App design system is a small extension of the NHS Design System. It incl
 
 Right now, the NHS App design system is web-based, however in the medium-term future this is likely to change to native components and patterns focussed on iOS and Android. We do not yet have a clear plan for what this means for the web-based design system, but we will update this page when we do.
 
+---
+
 | Status | Last reviewed |
 | ------ | ------------- |
 | Draft  | 2026-03-24    |

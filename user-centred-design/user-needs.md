@@ -1,9 +1,5 @@
 # NHS App user needs
 
-| Status | Last reviewed |
-| ------ | ------------- |
-| Draft  | 2026-03-24    |
-
 ## Background
 
 User needs are stored within the User Research Repository within Jira. There are dashboards within Confluence which give an overview of the repository of user needs we have documented:
@@ -32,3 +28,9 @@ We have reviewed all user needs (as of March 2026) and have summarised the user 
 | **Seeking Help** | Supporting users in the ability to seek support when they have questions, need to complete a task or want extra information | As a user, I need to be able to find help or support when I need it, so that my problem can be resolved |
 | **Trust** | Providing a trustworthy service for users | As a user, I need the services I use to be trustworthy, so that I am confident in using them without risk |
 | **Updates** | Being updated on a change, something new, or being reminded about something related to their healthcare or the app itself | As a user, I need to be updated about a change or something new related to my healthcare, so that I am well informed <br/><br/>As a user, I need to be reminded about important events in my care, so that I don't miss them |
+
+---
+
+| Status | Last reviewed |
+| ------ | ------------- |
+| Draft  | 2026-03-24    |

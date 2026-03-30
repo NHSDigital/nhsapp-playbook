@@ -13,6 +13,8 @@ If you are confused about how something works on the App and it is related to us
 
 You can @ the team on Slack by using `@nhsapp-ucdops`.
 
+---
+
 | Status | Last reviewed |
 | ------ | ------------- |
 | Draft  | 2026-03-24    |

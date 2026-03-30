@@ -28,6 +28,8 @@ This structure was rolled out in the spring of 2026 after extensive research and
 
 The overarching information architecture of the NHS App should be durable and slow-to-change. Frequent significant changes cause confusion and distress for users. However, the structure of the NHS App is not set in stone. It can and should evolve over time as we learn more about users and their needs, and as we add new services to the App. The Navigation and Onboarding team are responsible for making sure that any changes to the structure of the NHS App are well-researched, well-designed and well-communicated to users. For more information on how to propose changes to the structure of the NHS App, see [Making changes to the structure of the NHS App](making-IA-changes.md).
 
+---
+
 | Status | Last reviewed |
 | ------ | ------------- |
 | Draft  | 2026-03-24    |

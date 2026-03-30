@@ -64,6 +64,8 @@ A list of things in the NHS App:
 
 For more information, you can find the public list of NHS App features [here](https://digital.nhs.uk/services/nhs-app/nhs-app-features).
 
+---
+
 | Status | Last reviewed |
 | ------ | ------------- |
 | Draft  | 2026-03-30    |
