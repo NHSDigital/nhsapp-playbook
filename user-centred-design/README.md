@@ -10,7 +10,7 @@ Beyond that, there are a number of ways of working and tools that we use to make
 - [Design assurance reviews](../governance/design-assurance.md)
 - [Information architecture](information-architecture.md) ([and making changes to it](making-IA-changes.md))
 - [Design system](design-system.md)
-- [Prototyping tools and resources](prototyping-tools.md)
+- [Prototyping tools and resources](prototyping.md)
 - [User experience principles](user-experience-principles.md)
 - [User experience metrics](user-experience-metrics.md)
 - [User needs](user-needs.md)
