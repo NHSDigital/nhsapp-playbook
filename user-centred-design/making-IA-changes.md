@@ -107,6 +107,8 @@ If granted, proxy access allows users to switch profiles to manage health servic
 
 There are only a limited number of journeys available when you act as a proxy user depending on the access level you require or have been granted by your GP surgery. This may include viewing health records, booking appointments and requesting repeat prescriptions.
 
+---
+
 | Status | Last reviewed |
 | ------ | ------------- |
 | Draft  | 2026-03-23    |

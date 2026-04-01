@@ -19,6 +19,8 @@ Right now, the NHS App design system and prototype kit are web-based. However, i
 
 Teams are starting to think about how their features and services will work in native code now, and you can too. The best approach would be to speak to the App's native transformation team (Slack channel: `#team-native-transformation`).
 
+---
+
 | Status | Last reviewed |
 | ------ | ------------- |
 | Draft  | 2026-03-25    |

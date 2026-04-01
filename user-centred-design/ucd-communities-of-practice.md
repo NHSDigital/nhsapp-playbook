@@ -36,6 +36,8 @@ The NHS App has a few types of community spaces:
     - @nhsapp-interaction-design
     - @nhsapp-ucdops
 
+---
+
 | Status | Last reviewed |
 | ------ | ------------- |
 | Draft  | 2026-03-24    |

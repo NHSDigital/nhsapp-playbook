@@ -157,6 +157,10 @@ The feedback form has an area for logging the actions you have taken against the
  - [Questions you'll be asked in an alpha assessment](https://www.digital.mod.uk/service-manual/service-assessments/what-to-expect/questions-in-an-alpha-assessment/)
  - [Questions you'll be asked in a beta assessment](https://www.digital.mod.uk/service-manual/service-assessments/what-to-expect/questions-in-a-beta-assessment/)
  
- #### Footnotes:
- 
  [^1]: Sometimes the answer to why you are working on the problem is because a senior stakeholder said so – that's fine, you should tell the panel that.
+
+---
+
+| Status | Last reviewed |
+| ------ | ------------- |
+| Live   | 2026-03-24    |

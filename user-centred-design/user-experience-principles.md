@@ -1,11 +1,5 @@
 # User experience principles
 
-| Status | Last reviewed |
-| ------ | ------------- |
-| Live   | 2026-03-24    |
-
-
-
 Describing or defining what "good" means when it comes to user experience design is difficult. All of our work is measured against the NHS service standard, and you should use the NHS design principles to help you make decisions about how to do things in a way that is aligned to our values. They are both useful and important, however we've observed that teams need a more detailed set of guidelines to help them understand what good looks like and make decisions when faced with trade-offs. This page is an attempt to define a benchmark. 
 
 Just so we're absolutely clear: the principles described below do NOT replace the NHS design principles! They extend them so that teams have a more detailed set of tools for evaluating their work. 
@@ -141,3 +135,9 @@ The ideas here began with a review of the NHS service standard and NHS design pr
 - The Web Credibility Project
 
 [^1]: The real quote is "We are as gods and might as well get good at it", which comes from the Whole Earth Catalogue.
+
+---
+
+| Status | Last reviewed |
+| ------ | ------------- |
+| Live   | 2026-03-24    |

@@ -35,18 +35,18 @@ The topics listed below are based on the questions that teams always ask. There 
 #### Find out how the App works
 
 - [App services overview](governance/app-services.md)
-- Governance
+- [Governance](governance/README.md)
 - [How to own an NHS App service](governance/owning-an-nhs-app-service.md)
 - [User needs](user-centred-design/user-needs.md)
 - [Sitemap and information architecture](user-centred-design/information-architecture.md)
 - Business logic
 - [Design system](user-centred-design/design-system.md)
-- Design histories
+- [Design histories](https://design-history.nhsapp.service.nhs.uk/)
 
 #### Prototyping new features
 
 - [The NHS App design system](user-centred-design/design-system.md)
-- Prototyping tools and resources
+- [Prototyping tools and resources](user-centred-design/prototyping.md)
 - [Accessibility audits and tools](user-centred-design/accessibility-audits.md)
 
 #### Standards we work to
@@ -60,13 +60,13 @@ The topics listed below are based on the questions that teams always ask. There 
 
 - [Information architecture guidance](user-centred-design/information-architecture.md)
 - [Making changes to the structure of the NHS App](user-centred-design/making-IA-changes.md)
-- NHS App governance processes and forums
+- [NHS App governance processes and forums](governance/README.md)
 
 #### Peer review and assurance
 
 - [Communities of practice](user-centred-design/ucd-communities-of-practice.md)
 - [Design assurance reviews](governance/design-assurance.md)
-- NHS App governance processes and forums
+- [NHS App governance processes and forums](governance/README.md)
 
 #### Avoiding duplication
 
@@ -76,7 +76,7 @@ The topics listed below are based on the questions that teams always ask. There 
 #### Approach to documentation
 
 - [NHS App user research repo](user-centred-design/user-needs.md)
-- Design histories
+- [Design histories](https://design-history.nhsapp.service.nhs.uk/)
 - [NHS App services documentation](governance/app-services.md)
 
 
@@ -87,6 +87,8 @@ Unless stated otherwise, the codebase is released under the MIT License. This co
 Any HTML or Markdown documentation is [© Crown Copyright](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/) and available under the terms of the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 
+
+---
 
 | Status | Last reviewed |
 | ------ | ------------- |
