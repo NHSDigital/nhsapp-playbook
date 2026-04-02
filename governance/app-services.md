@@ -64,6 +64,8 @@ A list of things in the NHS App:
 
 For more information, you can review the public list of [NHS App features](https://digital.nhs.uk/services/nhs-app/nhs-app-features) and the [public roadmap](https://digital.nhs.uk/services/nhs-app/roadmap).
 
+You can view an overview map of the NHS App [here (Figma)](https://www.figma.com/design/WAhCTtu0nFDyYTtG4BSdNx/NHS-App---Flows-source-of-truth?m=auto&node-id=2255-14124&t=8DWsE28AhzI26qwq-1). This is a work in progress and will be updated as we make changes to the structure of the App.
+
 ---
 
 | Status | Last reviewed |

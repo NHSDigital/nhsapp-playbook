@@ -4,6 +4,8 @@ Information architecture is about how content is structured, arranged and labell
 
 The Navigation and Onboarding team look after the information architecture of the NHS App.
 
+You can view a sitemap of the NHS App [here](https://www.figma.com/design/WAhCTtu0nFDyYTtG4BSdNx/NHS-App---Flows-source-of-truth?m=auto&node-id=2255-14124&t=8DWsE28AhzI26qwq-1). This is a work in progress and will be updated as we make changes to the structure of the App.
+
 
 ## The approach
 
