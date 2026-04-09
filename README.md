@@ -1,11 +1,18 @@
 # The NHS App playbook
 
-This document describes how to do work with and for the NHS App, regardless of whether you are part of the official NHS App programme. The playbook will cover: 
+This document describes how to do work with and for the NHS App, regardless of whether you are part of the official NHS App programme. 
 
-- Guidance on best practices
-- Rules about what teams can and can't do
-- Tools for doing your work
-- Description of how the app functions and gets maintained
+Your service "lives in the App" if: 
+
+- it is built in the NHS App codebase
+- it is an authenticated web integration built by an NHS England team
+
+The playbook will cover: 
+
+- guidance on best practices
+- rules about what teams can and can't do
+- tools for doing your work
+- description of how the app functions and gets maintained
 
 The primary goal of this material is to make it easy for teams to know how to research, design, and build products and services that will be part of the NHS App. If you can't figure out how to do the thing you need to do or if you have ideas about how to make this playbook better, please open an issue or give it a go yourself and open a PR! (Or message us on Slack.)
 
@@ -15,7 +22,7 @@ The primary goal of this material is to make it easy for teams to know how to re
 
 The basic kit of parts that we all work with includes:
 
-- **The NHS service standard.** This is where everything starts. Everyone must adhere to it. 
+- **[The NHS Service Standard](https://service-manual.nhs.uk/standards-and-technology/service-standard).** This is where everything starts. Everyone must adhere to it. 
 - **Communities of practice.** The NHS has many of them. There are groups specifically focussed on App things, and you can join them. 
 - **IA concept and governance.** The core app team owns it. This will probably be the most challenging aspect of working on the App. 
 - **Evidence base and design documentation.** Includes the user needs repo, design histories, and GitHub issues. All teams need to contribute and maintain this.
@@ -34,50 +41,50 @@ The topics listed below are based on the questions that teams always ask. There 
 
 #### Find out how the App works
 
-- [App services overview](governance/app-services.md)
+- [App services overview](references/app-services.md)
 - [Governance](governance/README.md)
-- [How to own an NHS App service](governance/owning-an-nhs-app-service.md)
-- [User needs](user-centred-design/user-needs.md)
-- [Sitemap and information architecture](user-centred-design/information-architecture.md)
+- [How to own an NHS App service](guides/owning-an-nhs-app-service.md)
+- [User needs](references/user-needs.md)
+- [Sitemap and information architecture](guides/information-architecture.md)
 - Business logic
-- [Design system](user-centred-design/design-system.md)
+- [Design system](guides/design-system.md)
 - [Design histories](https://design-history.nhsapp.service.nhs.uk/)
 
 #### Prototyping new features
 
-- [The NHS App design system](user-centred-design/design-system.md)
-- [Prototyping tools and resources](user-centred-design/prototyping.md)
-- [Accessibility audits and tools](user-centred-design/accessibility-audits.md)
+- [The NHS App design system](guides/design-system.md)
+- [Prototyping tools and resources](guides/prototyping.md)
+- [Accessibility audits and tools](guides/accessibility-audits.md)
 
 #### Standards we work to
 
-- [User experience principles](user-centred-design/user-experience-principles.md)
-- [User experience metrics](user-centred-design/user-experience-metrics.md)
-- [Design assurance reviews](governance/design-assurance.md)
+- [User experience principles](guides/user-experience-principles.md)
+- [User experience metrics](guides/user-experience-metrics.md)
+- [Design assurance reviews](guides/design-assurance.md)
 - [Accessibility standards](https://www.w3.org/TR/WCAG22/)
 
 #### How the homescreen is managed
 
-- [Information architecture guidance](user-centred-design/information-architecture.md)
-- [Making changes to the structure of the NHS App](user-centred-design/making-IA-changes.md)
-- [NHS App governance processes and forums](governance/README.md)
+- [Information architecture guidance](guides/information-architecture.md)
+- [Making changes to the structure of the NHS App](guides/making-IA-changes.md)
+- [NHS App governance processes and forums](references/governance-forums.md)
 
 #### Peer review and assurance
 
-- [Communities of practice](user-centred-design/ucd-communities-of-practice.md)
-- [Design assurance reviews](governance/design-assurance.md)
-- [NHS App governance processes and forums](governance/README.md)
+- [Communities of practice](references/ucd-communities-of-practice.md)
+- [Design assurance reviews](guides/design-assurance.md)
+- [NHS App governance processes and forums](references/governance-forums.md)
 
 #### Avoiding duplication
 
-- [NHS App user research repo](user-centred-design/user-needs.md)
-- [Communities of practice](user-centred-design/ucd-communities-of-practice.md)
+- [NHS App user research repo](references/user-needs.md)
+- [Communities of practice](references/ucd-communities-of-practice.md)
 
 #### Approach to documentation
 
-- [NHS App user research repo](user-centred-design/user-needs.md)
+- [NHS App user research repo](references/user-needs.md)
 - [Design histories](https://design-history.nhsapp.service.nhs.uk/)
-- [NHS App services documentation](governance/app-services.md)
+- [NHS App services documentation](references/app-services.md)
 
 
 
@@ -92,4 +99,4 @@ Any HTML or Markdown documentation is [© Crown Copyright](https://www.nationala
 
 | Status | Last reviewed |
 | ------ | ------------- |
-| Draft  | 2026-03-24    |
+| Draft  | 2026-04-09    |
