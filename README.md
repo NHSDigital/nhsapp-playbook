@@ -1,11 +1,9 @@
 # The NHS App playbook
 
-This document describes how to do work with and for the NHS App, regardless of whether you are part of the official NHS App programme. 
-
-Your service "lives in the App" if: 
+These documents provide guidance for NHS England teams building services that live in the NHS App. Your service "lives in the App" if: 
 
 - it is built in the NHS App codebase
-- it is an authenticated web integration built by an NHS England team
+- it is an authenticated web integration built by an NHS England team that is accessible in the NHS App
 
 The playbook will cover: 
 
@@ -14,7 +12,7 @@ The playbook will cover:
 - tools for doing your work
 - description of how the app functions and gets maintained
 
-The primary goal of this material is to make it easy for teams to know how to research, design, and build products and services that will be part of the NHS App. If you can't figure out how to do the thing you need to do or if you have ideas about how to make this playbook better, please open an issue or give it a go yourself and open a PR! (Or message us on Slack.)
+The primary goal of this material is to make it easy for teams to know how to research, design, build, and maintain products and services that will be part of the NHS App. If you can't figure out how to do the thing you need to do or if you have ideas about how to make this playbook better, please open an issue or give it a go yourself and open a PR! (Or message us on Slack.)
 
 
 
@@ -22,11 +20,11 @@ The primary goal of this material is to make it easy for teams to know how to re
 
 The basic kit of parts that we all work with includes:
 
-- **[The NHS Service Standard](https://service-manual.nhs.uk/standards-and-technology/service-standard).** This is where everything starts. Everyone must adhere to it. 
+- **[The NHS Service Standard](https://service-manual.nhs.uk/standards-and-technology/service-standard) and [Technology Code of Practice](https://www.gov.uk/guidance/the-technology-code-of-practice).** These are where everything starts. Everyone must adhere to them. 
 - **Communities of practice.** The NHS has many of them. There are groups specifically focussed on App things, and you can join them. 
-- **IA concept and governance.** The core app team owns it. This will probably be the most challenging aspect of working on the App. 
+- **IA concept and governance.** The core App team owns it. This will probably be the most challenging aspect of working on the App. 
 - **Evidence base and design documentation.** Includes the user needs repo, design histories, and GitHub issues. All teams need to contribute and maintain this.
-- **Service patterns and design system.** The core app team will provide them, but everyone can contribute.
+- **Service patterns and design system.** The core App team will provide them, but everyone can contribute.
 - **App user experience principles.** Everyone should have the same target for what a good experience consists of. These extend the NHS Design Principles and make them more tangible while also incorporating ideas from clinical safety. 
 - **App user experience metrics.** (Same as above.)
 - **Content governance processes.** For content published in and about the App.
