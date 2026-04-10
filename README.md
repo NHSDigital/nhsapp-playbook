@@ -40,7 +40,7 @@ The topics listed below are based on the questions that teams always ask. There 
 #### Find out how the App works
 
 - [App services overview](references/app-services.md)
-- [Governance](governance/README.md)
+- [Governance](references/governance-forums.md)
 - [How to own an NHS App service](guides/owning-an-nhs-app-service.md)
 - [User needs](references/user-needs.md)
 - [Sitemap and information architecture](guides/information-architecture.md)
