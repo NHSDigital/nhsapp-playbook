@@ -29,7 +29,7 @@ Consider also including areas with:
 - recurring issues
 - unresolved advisory issues
 
-You can get a copy of previous audits by speaking to the [App's UCD Ops team](ucd-ops.md).
+You can get a copy of previous audits by speaking to the [App's UCD Ops team](references/ucd-ops.md).
 
 We do not include error screens because it's difficult to recreate them.
 

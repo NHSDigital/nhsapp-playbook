@@ -11,7 +11,7 @@ Prototyping NHS App features and services can be difficult and is changing. Howe
 
 One of the most difficult challenges of designing for the NHS App is keeping track of all of the other parts of the App that you are not working on. It is not uncommon for a team to design something that works perfectly fine when seen in isolation that diverges from how a similar feature or service works elsewhere in the App. This can lead to a disjointed experience for users and can make it more difficult to maintain the App in the future. The best way to avoid this is to use the design system and prototype kit, speak to other teams about how they have designed similar features and services, and audit the App regularly to make sure your work is consistent with the rest of the App.
 
-The App's [UCD Ops](ucd-ops.md) team is planning work on developing and documenting design patterns so there is a common benchmark for how to design and prototype features and services in the App. This will be a long-term project, but in the meantime you can use the design system and prototype kit to get started. 
+The App's [UCD Ops](references/ucd-ops.md) team is planning work on developing and documenting design patterns so there is a common benchmark for how to design and prototype features and services in the App. This will be a long-term project, but in the meantime you can use the design system and prototype kit to get started. 
 
 ### The future 
 
@@ -23,4 +23,4 @@ Teams are starting to think about how their features and services will work in n
 
 | Status | Last reviewed |
 | ------ | ------------- |
-| Draft  | 2026-03-25    |
+| Draft  | 2026-04-10    |

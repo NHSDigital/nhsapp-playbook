@@ -45,7 +45,7 @@ Things that do not require a design assurance review:
 - Revisions based on an accessibility audit
 - Changes to support an urgent fix to the live system 
 
-If you aren't sure whether the work you're doing needs a design assurance review, just ask [Michael Gallagher](/display/~michael.gallagher10@nhs.net), [Simon Davis](/display/~simon.davis@nhs.net), or [Auriol Palladino](/display/~auriol.palladino1@nhs.net).
+If you aren't sure whether the work you're doing needs a design assurance review, just ask Michael Gallagher, Simon Davis, or Auriol Palladino.
 
 #### When do reviews happen?
  
@@ -55,7 +55,7 @@ The panel would expect to be shown the multiple design options that you have con
 
 There is protected time for design assurance reviews every Tuesday from 14:00 to 16:00. 
 
-You should discuss whether your current work needs a review with the app's lead researcher and/or designer early in the design process. This will also make it easier to arrange a panel in advance and pencil in a rough estimate for when the review might happen. Scheduling the review is the responsibility of UCD squad leads. [Check out the review calendar page for more information](/spaces/NO/pages/930362820/Review+calendar+and+candidates). 
+You should discuss whether your current work needs a review with the app's lead researcher and/or designer early in the design process. This will also make it easier to arrange a panel in advance and pencil in a rough estimate for when the review might happen. Scheduling the review is the responsibility of UCD squad leads. Check out the review calendar page on Confluence for more information. 
 
 Preparation for the review shouldn't be onerous. Expect to set aside a day or two for the prep work. 
 
